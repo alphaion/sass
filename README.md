@@ -1,3 +1,5 @@
+![Sass](https://user-images.githubusercontent.com/57044551/117637923-ed0e8400-b19f-11eb-81fe-a8b460a6312c.png)
+
 # Sass
 Sass also known as Syntactically Awesome Style Sheets.
 
